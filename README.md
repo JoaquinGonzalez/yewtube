@@ -1,6 +1,3 @@
-
-![](https://img.shields.io/pypi/v/yewtube.svg)  ![](https://img.shields.io/pypi/wheel/yewtube.svg)
-
 <pre>
                       _         _          
                      | |       | |         
@@ -18,26 +15,15 @@ yewtube, forked from mps-youtube , is a Terminal based YouTube player and downlo
 
 Installation
 -----------
-# Stable Version
-
-### Using pip
-1. Install using `pip install yewtube`
-2. Run using, `yt`. Enjoy! 
-
-### Using pipx (Recommended)
-1.  Install **_pipx_** using `pip install pipx`
-2.  Install `yewtube` using `pipx install yewtube`
-3.  Now, type `yt` That's it.
-
 # Latest Version
 
 ### Using pip
-1. Install using `pip install git+https://github.com/iamtalhaasghar/yewtube.git`
+1. Install using `pip install git+https://github.com/JoaquinGonzalez/yewtube.git`
 2. Run using, `yt`. Enjoy! 
 
 ### Using pipx
 1.  Install **_pipx_** using `pip install pipx`
-2.  Install `yewtube` using `pipx install git+https://github.com/iamtalhaasghar/yewtube.git`
+2.  Install `yewtube` using `pipx install git+https://github.com/JoaquinGonzalez/yewtube.git`
 3.  Now, type `yt` That's it.
 
 What's new in yewtube?
